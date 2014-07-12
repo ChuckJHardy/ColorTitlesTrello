@@ -2,6 +2,8 @@
 
 Show the Card label titles on trello.com for easier communication in a team
 
+[Download the Chrome Extension](https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim?utm_source=chrome-ntp-icon)
+
 ![image](ExampleImage.png)
 
 ## Contributing
