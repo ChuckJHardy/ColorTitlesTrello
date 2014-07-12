@@ -1,0 +1,7 @@
+.list-card-labels .card-label {
+  height: inherit!important;
+  width: 100%!important;
+  line-height: 20px!important;
+  text-align: center;
+  font-size: 10px;
+}

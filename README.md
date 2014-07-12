@@ -1,6 +1,8 @@
-## Color Titles for Trello
+## Card Color Titles for Trello
 
-Show the color title on each card.
+Show the Card label titles on trello.com for easier communication in a team
+
+![image](ExampleImage.png)
 
 ## Contributing
 
