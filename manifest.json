@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Card Color Titles for Trello",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Show the Card label titles on trello.com for easier communication in a team",
 
   "content_scripts": [
