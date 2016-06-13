@@ -4,8 +4,9 @@ Show the Card label titles on trello.com for easier communication in a team
 
 | Browser | Link |
 | --- | --- |
-| Chrome | [Download Extension](https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim?utm_source=chrome-ntp-icon) |
-| Safari | [Download Extension](https://github.com/ChuckJHardy/ColorTitlesTrello/raw/master/Color%20Titles%20Trello.safariextz) |
+| Chrome  | [Download Extension](https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim?utm_source=chrome-ntp-icon) |
+| Safari  | [Download Extension](https://github.com/ChuckJHardy/ColorTitlesTrello/raw/master/Color%20Titles%20Trello.safariextz) |
+| Firefox | [Download Extension](https://addons.mozilla.org/en-US/firefox/addon/card-color-titles-for-trello) |
 
 ![image](ExampleImage.png)
 
