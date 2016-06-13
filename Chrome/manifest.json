@@ -8,20 +8,16 @@
   "author" : "Chuck J Hardy",
 
   "permissions": [
-    "storage"
+    "storage",
+    "tabs",
+    "https://trello.com/*"
   ],
 
-  "content_scripts": [
-    {
-      "matches": ["https://trello.com/*"],
-      "css": [
-        "labels.css",
-        "count.css",
-        "numbers.css"
-      ],
-      "all_frames": true
-    }
-  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
 
   "options_ui": {
     "page": "options.html",
