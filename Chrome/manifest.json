@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+
+  "name": "Card Color Titles for Trello",
+  "version": "1.0.0",
+  "description": "Show the Card label titles, column card count and card numbers on trello.com for easier communication in a team",
+
+  "author" : "Chuck J Hardy",
+
+  "permissions": [
+    "storage",
+    "tabs",
+    "https://trello.com/*"
+  ],
+
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  }
+}
+
