@@ -1,0 +1,12 @@
+{
+  "title": "Card Color Titles for Trello",
+  "name": "cardcolortitles",
+  "version": "0.0.1",
+  "description": "Show the card label titles on trello.com",
+  "main": "firefoxAddon.js",
+  "author": "VisualBean",
+  "engines": {
+    "firefox": ">=34.0a1"
+  },
+  "license": "MIT"
+}
