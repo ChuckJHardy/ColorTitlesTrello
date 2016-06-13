@@ -7,6 +7,10 @@
 
   "author" : "Chuck J Hardy",
 
+  "permissions": [
+    "storage"
+  ],
+
   "content_scripts": [
     {
       "matches": ["https://trello.com/*"],

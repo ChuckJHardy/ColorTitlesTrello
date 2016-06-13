@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Card Color Titles for Trello</title>
+  <style>
+    body: { padding: 10px; }
+    .option {
+      margin-bottom: 10px;
+    }
+
+    #status {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="option">
+    <label>
+      <input type="checkbox" id="columnCount">
+      Column Count
+    </label>
+  </div>
+
+  <div class="option">
+    <label>
+      <input type="checkbox" id="cardId">
+      Card ID's
+    </label>
+  </div>
+
+  <div class="option">
+    <label>
+      <input type="checkbox" id="labelName">
+      Full Label Names
+    </label>
+  </div>
+
+  <div id="status"></div>
+
+  <button id="save">Save</button>
+
+  <script type="text/javascript" src="options.js"></script>
+</body>
+</html>
